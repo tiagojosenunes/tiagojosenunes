@@ -6,15 +6,14 @@
 </p>
 
 <p align="left">
-  👾 Linguagens: **|JavaScript | HTML | CSS | Python | C | SQL |**
+  👾 <strong>Linguagens:</strong>JavaScript | HTML | CSS | Python | C | SQL
+
+<p align="left">
+  👨‍💻 <strong>Ferramentas:</strong> Git | Trello | VsCode | Vercel
 </p>
 
 <p align="left">
-  👨‍💻 Ferramentas: **Git | Trello | VsCode | Versel**
-</p>
-
-<p align="left">
-  💌 Contatos: ⤵️
+  💌 <strong>Contatos:</strong> ⤵️
 </p>
 
 <p align="left">
