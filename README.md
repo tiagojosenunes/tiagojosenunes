@@ -4,7 +4,7 @@
   Sou estudante de Ciência da Computação na UNIFAP e desde pequeno sempre fui fascinado por tecnologia, o que me despertou muita curiosidade sobre o funcionamento e desenvolvimento das coisas.
 </p>
 <p>
-  Atualmente estagiando com <strong>Analise de Dados</strong> no MPAP e estudando <strong>Engenharia de Desenvolvimento Front-End</strong> na EBAC.
+  Atualmente estagiando com <strong>Análise de Dados</strong> no MPAP e estudando <strong>Engenharia de Desenvolvimento Front-End</strong> na EBAC.
 </p>
 
 <p align="left">
