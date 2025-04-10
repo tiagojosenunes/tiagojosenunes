@@ -9,8 +9,6 @@
   Atualmente estagiando com <strong>Análise de Dados</strong> no MPAP e estudando <strong>Engenharia de Desenvolvimento Front-End</strong> na EBAC.
 </p>
 
-<hr>
-
 <p align="left">
   👾 <strong>Linguagens:</strong>JavaScript | HTML | CSS | Python | C | SQL
 
