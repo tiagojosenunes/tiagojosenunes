@@ -1,11 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h1>Olá!</h1>
+
 <p align="left"> 
   Sou estudante de Ciência da Computação na UNIFAP e desde pequeno sempre fui fascinado por tecnologia, o que me despertou muita curiosidade sobre o funcionamento e desenvolvimento das coisas.
 </p>
 <p>
   Atualmente estagiando com <strong>Análise de Dados</strong> no MPAP e estudando <strong>Engenharia de Desenvolvimento Front-End</strong> na EBAC.
 </p>
+
+<hr>
 
 <p align="left">
   👾 <strong>Linguagens:</strong>JavaScript | HTML | CSS | Python | C | SQL
