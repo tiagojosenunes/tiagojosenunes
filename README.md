@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  👾 <strong>Tools:</strong>JavaScript | HTML | CSS | Python | C | SQL | Java
+  👾 <strong>Linguagens: </strong>JavaScript | HTML | CSS | Python | C | SQL | Java
 
 <p align="left">
   👨‍💻 <strong>Ferramentas:</strong> Git | Trello | VsCode | Vercel | Cypress | Selenium | Appium | Robot Framework | Qase | Agile Methodologies
