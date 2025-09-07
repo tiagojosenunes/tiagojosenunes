@@ -4,14 +4,14 @@
   Sou estudante de Ciência da Computação na UNIFAP e desde pequeno sempre fui fascinado por tecnologia, o que me despertou muita curiosidade sobre o funcionamento e desenvolvimento das coisas.
 </p>
 <p>
-  Atualmente estagiando com <strong>Qualidade de Software - QA Analyst</strong> no PROESC e estudando <strong>Engenharia de Desenvolvimento Front-End</strong> na EBAC e <strong>Testes de Software Automatizados em Mobile e Web</strong>.
+  Atualmente <strong>Analista de Qualidade de Software Júnior - QA Analyst Jr</strong> no PROESC e estudando <strong>Engenharia de Desenvolvimento Front-End</strong> na EBAC e <strong>Testes de Software Automatizados em Mobile e Web</strong>.
 </p>
 
 <p align="left">
   👾 <strong>Linguagens: </strong>JavaScript | HTML | CSS | Python | C | SQL | Java
 
 <p align="left">
-  👨‍💻 <strong>Ferramentas:</strong> Git | Trello | VsCode | Vercel | Cypress | Selenium | Appium | Robot Framework | Qase | Agile Methodologies
+  👨‍💻 <strong>Ferramentas:</strong> Git | Trello | VsCode | Vercel | Cypress | Selenium | Appium | Robot Framework | Qase | Agile Methodologies | K6 test
 </p>
 
 <p align="left">
